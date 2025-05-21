@@ -64,7 +64,7 @@ export default function App() {
           Muhammad Asyfa Dwi Adzkiya – Projects Portfolio
         </h1>
         <h2 className="text-xl mb-12 text-center max-w-4xl">
-          These works were performed while working as an outsourced developer under PT Xsis Mitra Utama from October 2022 to April 2025
+          These works were performed while I was working as an outsourced developer under PT Xsis Mitra Utama from October 2022 to April 2025
         </h2>
 
         <div className="max-w-4xl w-full space-y-10">
