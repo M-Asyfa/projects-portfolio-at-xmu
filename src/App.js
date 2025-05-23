@@ -1,4 +1,6 @@
 import React from 'react';
+import DarkModeToggle from "./components/DarkModeToggle";
+import AboutMe from './components/AboutMe';
 import { motion } from 'framer-motion';
 
 const projects = [
@@ -63,9 +65,11 @@ export default function App() {
         <h1 className="text-3xl font-bold mb-12 text-center max-w-4xl">
           Muhammad Asyfa Dwi Adzkiya – Projects Portfolio
         </h1>
-        <h2 className="text-xl mb-12 text-center max-w-4xl">
-          These works were performed while I was working as an outsourced developer under PT Xsis Mitra Utama from October 2022 to April 2025
-        </h2>
+
+        {/* 👉 About Me Section */}
+        <div className="max-w-4xl w-full mb-16">
+          <AboutMe/>
+        </div>
 
         <div className="max-w-4xl w-full space-y-10">
           {projects.map((project, idx) => (
