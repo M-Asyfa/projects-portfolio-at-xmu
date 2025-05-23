@@ -8,12 +8,10 @@ export default function AboutMe() {
                 contributing to key systems for <strong>Bank Mandiri</strong>, <strong>Bank Mega</strong>, and <strong>Bank BNI</strong>.
             </p>
             <p className="text-lg leading-relaxed text-gray-700 dark:text-gray-300 mb-4">
-                I specialize in <strong>Java, Spring Boot, Oracle Database, Node.js, Express.js, PostgreSQL</strong>, and have contributed to
-                several large-scale banking systems.
+                I specialize in <strong>Java, Spring Boot, Oracle Database, Node.js, Express.js, PostgreSQL</strong>. I'm passionate about writing clean code and learning new technologies to build impactful software.
             </p>
             <p className="text-lg leading-relaxed text-gray-700 dark:text-gray-300">
                 I graduated with a degree in Physics from Universitas Brawijaya, where I developed strong problem-solving and analytical skills.
-                I'm passionate about writing clean code and learning new technologies to build impactful software.
             </p>
         </section>
     );
